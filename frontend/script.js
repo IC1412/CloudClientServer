@@ -1,6 +1,6 @@
 "use strict";
 
-const serverUrl = "http://localhost:7567";
+const serverUrl = "https://cloud-server-application-assignment2-d6b0hvh9g6bdc8g7.westus-01.azurewebsites.net";
 
 const loadDataBtn = document.getElementById('load-data-btn');
 const serverResponse = document.getElementById('server-response');
